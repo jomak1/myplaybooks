@@ -1,3 +1,3 @@
 # myplaybooks
 Ansible Playbooks
-This is a hello world playvbook
+Hello world! Welcome, you are a stranger here but once.
